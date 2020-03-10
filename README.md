@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget{
     }
 }
 </pre>
-<br>
+
 Pejelasan : <br>
 Pada code diatas kita dapat melihat bahwa nama class nya adalah <b>MyApp</b>, dan kemudian class MyApp ini meng <i>extend</i> ke StatelessWidget. Dan setiap widget akan memanggil <b>Widget Build(BuildContext ...)</b> <br><br>
 <b>Contoh Penggunaan StatefulWidget</b>
@@ -33,6 +33,8 @@ Class MyAppState extends State&lt;MyApp> {
     }
 }
 </pre>
-<br>
+
 Penjelasan :<br>
 Setiap kali kita menggunakan statefulWidget maka akan ada 2 buah kelas yang tebentuk. Yang pertama class extend dengan StatefulWidget dan yang kedua adalah Class yang extend ke state nya.
+<br><br>
+# stateless-dan-stateful-widget
