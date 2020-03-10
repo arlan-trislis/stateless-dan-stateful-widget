@@ -1,4 +1,4 @@
-# Stateless Dan Stateful Sidget
+# Stateless Dan Stateful Widget
 Hal yang paling mendasar yang seringkali ditanyakan oleh seorang developer atau programmer pada saat membuat aplikasi dengan flutter adalah <b><i>apa itu perbedaan Stateless dan Stateful Widget ?</i></b> <br><br>
 Silahkan simak beberapa pengertian terkait perbedaan stateless dan stateful widget dibawah ini : <br><br>
 <b>Stateful Widget</b> pada flutter menandakan bahwa sebuah component yang memiliki property state. Sebaliknya <b>stateless widget</b> lebih identik dengan sebuah component yang tidak memponyai properti state. <br><br>
